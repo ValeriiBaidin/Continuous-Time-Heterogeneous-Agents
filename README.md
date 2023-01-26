@@ -13,4 +13,4 @@ The following models are based on Benjamin Moll's Matlab code (https://benjaminm
 <img src="https://user-images.githubusercontent.com/55498094/213065695-373b1f51-5e4b-4679-8f1d-6ab5b6e72b0a.png" width="300"> <img src="https://user-images.githubusercontent.com/55498094/213065697-e1110a11-1684-45a5-b744-3c9ac66c96c5.png" width="300"> <img src="https://user-images.githubusercontent.com/55498094/213065721-c1809c52-6317-483a-8351-75a450c49060.png" width="300">
 
 
-Email: ValeriiBaidin@mail.mcgill.ca 
+Email: ValeriiBaidin@mail.mcgill.ca
