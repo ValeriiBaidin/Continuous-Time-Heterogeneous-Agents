@@ -8,7 +8,7 @@ The following models are based on Benjamin Moll's Matlab code (https://benjaminm
 
 2. **HJB_Labor_supply.jl** - Consumption-Saving Problem with Endogenous Labor Supply
 
-3. **HANK_lite.jl** - a limited replication of HANK model (Kaplan et al. 2018). (there is no transition dynamics). **Learning rate was added**, thus thus algorithm converges much easier.
+3. **HANK_lite.jl** - a limited replication of HANK model (Kaplan et al. 2018). (There is no transition dynamics). **Learning rate was added**, thus the algorithm converges much more easily.
 
 <img src="https://user-images.githubusercontent.com/55498094/213065695-373b1f51-5e4b-4679-8f1d-6ab5b6e72b0a.png" width="300"> <img src="https://user-images.githubusercontent.com/55498094/213065697-e1110a11-1684-45a5-b744-3c9ac66c96c5.png" width="300"> <img src="https://user-images.githubusercontent.com/55498094/213065721-c1809c52-6317-483a-8351-75a450c49060.png" width="300">
 
